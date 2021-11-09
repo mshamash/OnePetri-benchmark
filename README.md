@@ -37,7 +37,7 @@ For more information, please visit the OnePetri website [here](https://onepetri.
 *Coming soon...*
 
 ## Contact <a name="contact"></a>
-If you have any questions or comments on the OnePetri models in this repo, please contact Michael Shamash (michael@onepetri.ai) or [create a GitHub issue in this repository](https://github.com/mshamash/onepetri-models/issues)!
+If you have any questions or comments on the OnePetri benchmarking analysis in this repo, please contact Michael Shamash (michael@onepetri.ai)!
 
 ## Copyright <a name="copyright"></a>
 OnePetri - AI-Powered Petri Dish Analysis <br />
