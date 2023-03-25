@@ -12,7 +12,6 @@
 Michael Shamash <br />
 Maurice Lab <br />
 McGill University <br />
-michael@onepetri.ai
 
 ## Citation
 Please consider citing our [article in the journal PHAGE](https://doi.org/10.1089/phage.2021.0012) if you found OnePetri useful:
@@ -39,7 +38,7 @@ For more information, please visit the OnePetri website [here](https://onepetri.
 *Coming soon...*
 
 ## Contact <a name="contact"></a>
-If you have any questions or comments on the OnePetri benchmarking analysis in this repo, please contact Michael Shamash (michael@onepetri.ai)!
+If you have any questions or comments on the OnePetri benchmarking analysis in this repo, please open a GitHub issue.
 
 ## Copyright <a name="copyright"></a>
 OnePetri - AI-Powered Petri Dish Analysis <br />
